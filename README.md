@@ -8,9 +8,9 @@ MedEco is an innovative platform designed to address the pressing issue of expir
 
 Take a closer look at MedEco in action:
 
-- **Video Walkthrough**: [Watch Here](#)  
-- **Presentation**: [View Slides](#)  
-- **Business Model Document**: [Explore Here](#)
+- **Video Walkthrough**: [Watch Here](https://drive.google.com/drive/folders/1h38RYV4DR7Ea-tdkfCJK89ZSqTZVeX1d)  
+- **Presentation**: [View Slides](https://www.canva.com/design/DAGYIbIJ7MY/LZueCy7stGhbUJzfv2bqrA/edit)  
+- **Business Model Document**: [Explore Here](https://drive.google.com/drive/folders/1h38RYV4DR7Ea-tdkfCJK89ZSqTZVeX1d)
 
 ---
 
