@@ -8,9 +8,9 @@ MedEco is an innovative platform designed to address the pressing issue of expir
 
 Take a closer look at MedEco in action:
 
-- **Video Walkthrough**: [Watch Here](https://drive.google.com/drive/folders/1h38RYV4DR7Ea-tdkfCJK89ZSqTZVeX1d)  
+- **Video Walkthrough**: [Watch Here](https://drive.google.com/file/d/1mBl5RyTcnW1nLz2B_017BUqWkKm6Ul9j/view?usp=drive_link)  
 - **Presentation**: [View Slides](https://www.canva.com/design/DAGYIbIJ7MY/LZueCy7stGhbUJzfv2bqrA/edit)  
-- **Business Model Document**: [Explore Here](https://drive.google.com/drive/folders/1h38RYV4DR7Ea-tdkfCJK89ZSqTZVeX1d)
+- **Business Model Document**: [Explore Here](https://drive.google.com/file/d/1znB0BnIyqaKGuqe-x4nPc2iIHtYKKDaz/view?usp=drive_link)
 
 ---
 
@@ -19,8 +19,8 @@ Take a closer look at MedEco in action:
 Dive into the technical foundation of MedEco:
 
 - **Backend Code**: [GitHub Repository](https://github.com/Mohamed-Kamal-Ayad/MedEco)  
-- **Mobile Code**: [GitHub Repository](#)
-- **AI Code**: [Github Repository](#)
+- **Mobile Code**: [GitHub Repository](https://github.com/Mohamed-Kamal-Ayad/MedEco-Mobile)
+- **AI Code**: [Github Repository](https://github.com/1abdelhalim/MedEco-ChatBot)
 ---
  
 
