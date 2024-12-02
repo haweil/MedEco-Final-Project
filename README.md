@@ -1,6 +1,22 @@
-# 🌱 MedEco - Final Project
+# MedEco
 
-MedEco is an innovative platform designed to address the pressing issue of expired and unused medication disposal. By connecting individuals with pharmacies, MedEco ensures safe and efficient collection while promoting environmental sustainability and public health.
+MedEco is a mobile app that helps solve healthcare and medication issues in Egypt using AI.
+
+## Features
+
+1. *Medication Interactions*  
+   MedEco helps people understand how different medications interact with each other or with food. It offers advice, warnings, and alternative suggestions in Egyptian Arabic.
+
+2. *Safe Medication Disposal*  
+   The app helps safely dispose of expired or unused medications by connecting users with pharmacies or eco-friendly disposal methods to reduce environmental harm.
+
+3. *Affordable Medications for Low-Income People*  
+   MedEco connects donors with people in need of medication, making it easier for low-income individuals to get essential medicines.
+
+4. *Pharmacy Network*  
+   The app links pharmacies together, so they can share information about available medicines, improving access and reducing shortages.
+
+MedEco provides simple, AI-driven solutions to make healthcare more accessible and sustainable.
 
 ---
 
